@@ -1,0 +1,13 @@
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.exe
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.deps.json
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.runtimeconfig.json
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.runtimeconfig.dev.json
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.dll
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\bin\Debug\netcoreapp3.1\FactorialRecursion.pdb
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.csprojAssemblyReference.cache
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.AssemblyInfoInputs.cache
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.AssemblyInfo.cs
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.dll
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.pdb
+C:\Users\soham\source\repos\FactorialRecursion\FactorialRecursion\obj\Debug\netcoreapp3.1\FactorialRecursion.genruntimeconfig.cache
